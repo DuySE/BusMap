@@ -1,4 +1,4 @@
-# Capstone Project Information
+# Hackathon Project Information
 ## Name:
 - Busmap
 ## Team Members
